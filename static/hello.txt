@@ -1,0 +1,1 @@
+Only keep necessary files in static folder
